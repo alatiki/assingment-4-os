@@ -32,7 +32,7 @@ I used C++ structures to collect the required data for each problem.
 Here are some examples of how to use the code as will as the expected output:
 
 > ./cse4001_sync 1
-![pic1](pr1.png)
+![pic1](pr1.PNG)
 
 
 
