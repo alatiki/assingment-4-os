@@ -31,21 +31,22 @@ I used C++ structures to collect the required data for each problem.
 
 Here are some examples of how to use the code as will as the expected output:
 
-> ./cse4001_sync 1
+ ./cse4001_sync 1
+
 ![pic1](pr1.PNG)
 
 
 
->./cse4001_sync 2
-![pic1](pr2.png)
+./cse4001_sync 2
+![pic1](pr2.PNG)
 
 
-> ./cse4001_sync 3
-![pic1](pr3.png)
+ ./cse4001_sync 3
+![pic1](pr3.PNG)
 
 
->./cse4001_sync 4
-![pic1](pr4.png)
+./cse4001_sync 4
+![pic1](pr4.PNG)
 
 
 
